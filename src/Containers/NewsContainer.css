@@ -1,0 +1,11 @@
+div >h1{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+div {
+    background-image: url(../Assets/abstract-textured-backgound.jpg);
+}

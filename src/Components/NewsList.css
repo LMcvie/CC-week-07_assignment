@@ -1,0 +1,11 @@
+#newsList{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#newsList >h2 {
+    color:white;
+}
